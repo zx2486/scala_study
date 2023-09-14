@@ -15,5 +15,5 @@ target/
 
 .bloop
 
-Study_notes.md
-.gitignore
+*.md
+*.gitignore
