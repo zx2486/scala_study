@@ -1,0 +1,17 @@
+.metals/
+.scala-build/
+.vscode/
+target/
+*/.bsp/
+*/target/
+*/sbt-dist/
+
+.settings
+.project
+.classpath
+
+.idea
+*.iml
+
+.bloop
+
