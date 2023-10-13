@@ -3,6 +3,7 @@
 .vscode/
 target/
 */.bsp/
+.bsp/
 */target/
 */sbt-dist/
 
@@ -16,6 +17,6 @@ target/
 .bloop
 
 *.md
-*.gitignore
-**/.DS_Store
 .DS_Store
+*/.DS_Store
+**/.DS_Store
